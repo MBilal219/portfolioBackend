@@ -1,0 +1,38 @@
+{
+  "name": "car-wash-backend",
+  "private": true,
+  "version": "0.1.0",
+  "description": "A Strapi application",
+  "scripts": {
+    "develop": "strapi develop",
+    "start": "strapi start",
+    "build": "strapi build",
+    "strapi": "strapi"
+  },
+  "dependencies": {
+    "@_sh/strapi-plugin-ckeditor": "^2.0.4",
+    "@strapi/plugin-graphql": "^4.10.2",
+    "@strapi/plugin-i18n": "4.10.2",
+    "@strapi/plugin-users-permissions": "4.10.2",
+    "@strapi/strapi": "4.10.2",
+    "better-sqlite3": "8.0.1",
+    "karma": "^6.4.2",
+    "mysql": "^2.18.1",
+    "pg": "^8.11.0"
+  },
+  "optionalDependencies": {
+    "esbuild-android-64": "^x.x.x",
+    "fsevents": "x.x.x"
+  },
+  "author": {
+    "name": "A Strapi developer"
+  },
+  "strapi": {
+    "uuid": "ba803ea2-e82d-43f3-8650-d31f2c148f34"
+  },
+  "engines": {
+    "node": ">=12.0.0 <17.5.0",
+    "npm": "6.x.x"
+  },
+  "license": "MIT"
+}

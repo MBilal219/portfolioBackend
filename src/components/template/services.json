@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_template_services",
+  "info": {
+    "displayName": "Services"
+  },
+  "options": {},
+  "attributes": {
+    "TitleDescription": {
+      "type": "component",
+      "repeatable": false,
+      "component": "title-section.title-section"
+    }
+  }
+}

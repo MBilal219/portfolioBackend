@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_template_testimonials",
+  "info": {
+    "displayName": "Testimonial"
+  },
+  "options": {},
+  "attributes": {
+    "TitleSubtitle": {
+      "type": "component",
+      "repeatable": true,
+      "component": "title-section.title-section"
+    }
+  }
+}

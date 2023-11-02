@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_template_portfolios",
+  "info": {
+    "displayName": "Portfolio"
+  },
+  "options": {},
+  "attributes": {
+    "TitleSubtitle": {
+      "type": "component",
+      "repeatable": false,
+      "component": "title-section.title-section"
+    },
+    "Card": {
+      "type": "component",
+      "repeatable": true,
+      "component": "slider-card.slider-card"
+    }
+  }
+}

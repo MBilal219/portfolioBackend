@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_skill_percentage_skill_percentages",
+  "info": {
+    "displayName": "SkillPercentage",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "SubSkillTitle": {
+      "type": "string"
+    },
+    "Percentag": {
+      "type": "string"
+    }
+  }
+}
